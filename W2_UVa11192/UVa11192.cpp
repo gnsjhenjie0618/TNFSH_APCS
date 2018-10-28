@@ -28,4 +28,5 @@ int main()
         cout << '\n';
         now=0;
     }
+    return 1; //means the program not run successfully. 
 }
